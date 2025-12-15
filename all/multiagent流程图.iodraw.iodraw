@@ -172,8 +172,8 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--78" value="根据多维度特征集合，对社会理论进行建模" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="940" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--80" value="根据多维度特征集合，对社会理论进行建模" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="950" width="310" height="30" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--80" value="对照组对比分析（水稻区/小麦区对比、市内/省内包围对比）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1000" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
