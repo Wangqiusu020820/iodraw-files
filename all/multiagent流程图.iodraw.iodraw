@@ -274,8 +274,8 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--119" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;接入LLM：接入大语言模型对理论进行解释&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="1560" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--123" value="叙事化整合输出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1540" width="120" height="50" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--123" value="交互式可视化平台" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1640" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
