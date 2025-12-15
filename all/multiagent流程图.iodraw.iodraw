@@ -229,7 +229,7 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--97" value="基础可视化开发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="1290" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--103" value="&lt;span style=&quot;text-align: left;&quot;&gt;Echarts绘制指标对比柱状图、时序变化折线图&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--103" value="&lt;span style=&quot;text-align: left;&quot;&gt;指标对比柱状图、时序变化折线图：使用Echarts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="1280" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--104" value="&lt;span style=&quot;text-align: left;&quot;&gt;Geopandas+Echarts绘制文化地理分布图&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
