@@ -23,7 +23,7 @@
           <mxGeometry x="60" y="910" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f0f0f0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1260" width="880" height="320" as="geometry" />
+          <mxGeometry x="40" y="1260" width="880" height="360" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-9" value="交互式可视化智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="1270" width="130" height="30" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry x="415" y="1470" width="306" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--117" value="叙事化整合输出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1510" width="120" height="50" as="geometry" />
+          <mxGeometry x="244" y="1530" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--118" value="&lt;span style=&quot;text-align: left;&quot;&gt;指标对比柱状图、时序变化折线图：使用Echarts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="1510" width="275" height="30" as="geometry" />
