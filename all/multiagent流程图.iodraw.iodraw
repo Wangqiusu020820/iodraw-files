@@ -130,9 +130,6 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--53" target="JAy5tWjs6kHAEQ4UZLq--55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--53" target="JAy5tWjs6kHAEQ4UZLq--60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--53" value="深层文化特征抽取" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="710" width="120" height="50" as="geometry" />
         </mxCell>
