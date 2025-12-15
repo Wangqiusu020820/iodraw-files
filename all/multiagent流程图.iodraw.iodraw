@@ -184,6 +184,9 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--80" value="对照组对比分析（水稻区/小麦区对比、市内/省内包围对比）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="1000" width="356" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--81" target="JAy5tWjs6kHAEQ4UZLq--82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--81" value="关联性建模：检验文化变量与行为变量之间的关联性" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="1050" width="306" height="30" as="geometry" />
         </mxCell>
