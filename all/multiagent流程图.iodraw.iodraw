@@ -239,9 +239,9 @@
           <mxGeometry x="244" y="1410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--111" value="话语星系图：使用D3.js等工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1370" width="356" height="30" as="geometry" />
+          <mxGeometry x="415" y="1370" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--112" value="关联性建模：检验文化变量与行为变量之间的关联性" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--112" value="动态时间轴" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="1420" width="306" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--113" value="差分法因果推断建模：时序数据分组建模" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
