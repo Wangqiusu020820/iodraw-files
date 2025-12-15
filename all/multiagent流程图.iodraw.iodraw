@@ -103,7 +103,7 @@
             <mxPoint x="414" y="602.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--32" target="JAy5tWjs6kHAEQ4UZLq--45">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--32" target="JAy5tWjs6kHAEQ4UZLq--45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--32" value="传统文化特征量化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -115,8 +115,8 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--41" value="提取核心议题和主题分布：使用LDA等主题模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="587.5" width="276" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--45" value="提取核心议题和主题分布：使用LDA等主题模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="640" width="276" height="30" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--45" value="文化心理学特征：使用LIWC词典" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="640" width="196" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
