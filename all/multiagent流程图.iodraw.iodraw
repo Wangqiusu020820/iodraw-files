@@ -163,8 +163,8 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--72" value="理论建模&lt;br&gt;(大预言模型)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="930" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--75" value="理论建模&lt;br&gt;(大预言模型)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="940" width="120" height="50" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--75" value="理论检验&lt;br&gt;（以水稻理论验证）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1010" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
