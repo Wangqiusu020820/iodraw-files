@@ -62,12 +62,7 @@
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304" y="457" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--18" value="结构化数据集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JAy5tWjs6kHAEQ4UZLq--17">
-          <mxGeometry x="0.045" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="304" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--20" value="在线评论数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
