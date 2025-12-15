@@ -22,7 +22,7 @@
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-6" value="理论建模和验证智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="770" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f0f0f0;" parent="1" vertex="1">
           <mxGeometry x="40" y="960" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-9" value="交互式可视化智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
