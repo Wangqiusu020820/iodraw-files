@@ -63,8 +63,10 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--16" value="语义预处理：LIWC分词，LLM词性标注" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="262.5" width="225" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.388;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--13" target="nL2ZT0Lo6Q2gO3qX0gRt-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--13" target="nL2ZT0Lo6Q2gO3qX0gRt-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="304" y="457" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
