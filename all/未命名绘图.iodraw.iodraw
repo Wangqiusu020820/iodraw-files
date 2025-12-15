@@ -28,6 +28,12 @@
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-9" value="一致性检验Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="770" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-10" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-11" value="一致性检验Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="970" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
