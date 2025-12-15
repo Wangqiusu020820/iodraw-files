@@ -167,7 +167,7 @@
           <mxGeometry x="244" y="930" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--75" value="理论检验&lt;br&gt;（以水稻理论验证）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1010" width="120" height="50" as="geometry" />
+          <mxGeometry x="244" y="1040" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--78" value="根据多维度特征集合，对社会理论进行建模" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="940" width="310" height="30" as="geometry" />
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--81" value="关联性建模：检验文化变量与行为变量之间的关联性" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="1050" width="356" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--82" value="评价焦点、隐含情绪与动机" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1050" width="196" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
