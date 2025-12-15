@@ -217,14 +217,17 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--95" value="理论验证结果与建模数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="1200" width="191" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--97" target="JAy5tWjs6kHAEQ4UZLq--103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--97" value="基础可视化开发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="1290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--103" value="&lt;span style=&quot;text-align: left;&quot;&gt;Echarts绘制指标对比柱状图、时序变化折线图&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1280" width="325" height="30" as="geometry" />
+          <mxGeometry x="415" y="1280" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--104" value="&lt;span style=&quot;text-align: left;&quot;&gt;Geopandas+Echarts绘制文化地理分布图&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1330" width="325" height="30" as="geometry" />
+          <mxGeometry x="415" y="1330" width="275" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
