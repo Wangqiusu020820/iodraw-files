@@ -17,16 +17,16 @@
           <mxGeometry x="60" y="430" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-5" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff1d6;" parent="1" vertex="1">
-          <mxGeometry x="40" y="760" width="680" height="160" as="geometry" />
+          <mxGeometry x="50" y="809" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-6" value="理论建模和验证智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="770" width="130" height="30" as="geometry" />
+          <mxGeometry x="70" y="819" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f0f0f0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="960" width="680" height="160" as="geometry" />
+          <mxGeometry x="50" y="1009" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-9" value="交互式可视化智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="970" width="130" height="30" as="geometry" />
+          <mxGeometry x="70" y="1019" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--1" target="JAy5tWjs6kHAEQ4UZLq--2">
           <mxGeometry relative="1" as="geometry" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--41" value="提取核心议题和主题分布：使用LDA等主题模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="587.5" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--45" target="JAy5tWjs6kHAEQ4UZLq--51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--45" value="文化心理学特征：使用LIWC词典" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="640" width="196" height="30" as="geometry" />
