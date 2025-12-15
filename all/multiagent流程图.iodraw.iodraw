@@ -151,7 +151,7 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--60" value="特征生成与语义向量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="750" width="196" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--66" value="多维度结构化特征集和" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--66" value="多维度结构化特征集合" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="830" width="191" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--70" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
@@ -166,8 +166,8 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--75" value="理论检验&lt;br&gt;（以水稻理论验证）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="1010" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--78" value="根据多维度" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="930" width="120" height="50" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--78" value="根据多维度特征集合，对社会理论进行建模" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="930" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
