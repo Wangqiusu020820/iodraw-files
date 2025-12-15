@@ -166,10 +166,13 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--72" value="理论建模&lt;br&gt;(大语言模型)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="930" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--75" target="JAy5tWjs6kHAEQ4UZLq--80">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--75" target="JAy5tWjs6kHAEQ4UZLq--80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--75" target="JAy5tWjs6kHAEQ4UZLq--81">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--75" target="JAy5tWjs6kHAEQ4UZLq--81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--75" target="JAy5tWjs6kHAEQ4UZLq--84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--75" value="理论检验&lt;br&gt;（以水稻理论验证）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
