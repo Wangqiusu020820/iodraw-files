@@ -5,74 +5,74 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e8f4ff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="880" height="240" as="geometry" />
+          <mxGeometry x="290" y="130" width="880" height="240" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-2" value="数据获取与预处理智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="90" width="150" height="30" as="geometry" />
+          <mxGeometry x="310" y="140" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-3" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e6ffcc;" parent="1" vertex="1">
-          <mxGeometry x="40" y="420" width="880" height="380" as="geometry" />
+          <mxGeometry x="290" y="470" width="880" height="380" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-4" value="文化特征抽取智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="430" width="130" height="30" as="geometry" />
+          <mxGeometry x="310" y="480" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-5" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff1d6;" parent="1" vertex="1">
-          <mxGeometry x="40" y="900" width="880" height="270" as="geometry" />
+          <mxGeometry x="290" y="950" width="880" height="270" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-6" value="理论建模和验证智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="910" width="130" height="30" as="geometry" />
+          <mxGeometry x="310" y="960" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f0f0f0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1260" width="880" height="360" as="geometry" />
+          <mxGeometry x="290" y="1310" width="880" height="360" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-9" value="交互式可视化智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1270" width="130" height="30" as="geometry" />
+          <mxGeometry x="310" y="1320" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--1" target="JAy5tWjs6kHAEQ4UZLq--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--1" value="在线评论数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="229" y="20" width="150" height="40" as="geometry" />
+          <mxGeometry x="479" y="70" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--2" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="127.5" width="50" height="55" as="geometry" />
+          <mxGeometry x="614" y="177.5" width="50" height="55" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--6" value="规则去噪：关键词去除广告、重复评论" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="110" width="226" height="30" as="geometry" />
+          <mxGeometry x="664" y="160" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--10" value="语境补全：构建方言/网络黑化映射词典，标准化语义" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="165" width="295" height="30" as="geometry" />
+          <mxGeometry x="665" y="215" width="295" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="JAy5tWjs6kHAEQ4UZLq--13" source="JAy5tWjs6kHAEQ4UZLq--2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304" y="197.5" as="sourcePoint" />
+            <mxPoint x="554" y="247.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--13" target="JAy5tWjs6kHAEQ4UZLq--15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--13" value="结构化转换" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="227.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="277.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--15" value="文本结构化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="237.5" width="76" height="30" as="geometry" />
+          <mxGeometry x="650" y="287.5" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--13" target="JAy5tWjs6kHAEQ4UZLq--20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304" y="350" as="targetPoint" />
+            <mxPoint x="554" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--20" target="JAy5tWjs6kHAEQ4UZLq--27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--20" value="结构化数据集" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="229" y="350" width="150" height="40" as="geometry" />
+          <mxGeometry x="479" y="400" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--21" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="80" height="60" as="geometry" />
+          <mxGeometry x="690" y="390" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--20" target="JAy5tWjs6kHAEQ4UZLq--21">
           <mxGeometry relative="1" as="geometry" />
@@ -87,20 +87,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--27" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="452.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="502.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--29" value="分词与词性标注：使用LIWC工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="435" width="226" height="30" as="geometry" />
+          <mxGeometry x="664" y="485" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--30" value="构建语义单元：&lt;span data-path-to-node=&quot;6,1,1,1,1,0&quot;&gt;将文本拆解为可供分析的语义单元&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,1,1,2&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="490" width="295" height="30" as="geometry" />
+          <mxGeometry x="664" y="540" width="295" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--32" target="JAy5tWjs6kHAEQ4UZLq--34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="602.5" as="targetPoint" />
+            <mxPoint x="664" y="652.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--32" target="JAy5tWjs6kHAEQ4UZLq--45">
@@ -110,22 +110,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--32" value="传统文化特征量化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="577.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="627.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--34" value="情感分类和评估：使用情感分析算法或情感词典" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="532.5" width="276" height="30" as="geometry" />
+          <mxGeometry x="664" y="582.5" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--41" value="提取核心议题和主题分布：使用LDA等主题模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="587.5" width="276" height="30" as="geometry" />
+          <mxGeometry x="664" y="637.5" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--45" target="JAy5tWjs6kHAEQ4UZLq--51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--45" value="文化心理学特征：使用LIWC词典" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="640" width="196" height="30" as="geometry" />
+          <mxGeometry x="664" y="690" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--51" value="以水稻理论为例：集体/个人主义指标、思维方式、真实性以及语气" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="640" width="196" height="30" as="geometry" />
+          <mxGeometry x="900" y="690" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--53" target="JAy5tWjs6kHAEQ4UZLq--55">
           <mxGeometry relative="1" as="geometry" />
@@ -137,28 +137,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--53" value="深层文化特征抽取&lt;br&gt;（大语言模型）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="710" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="760" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--55" target="JAy5tWjs6kHAEQ4UZLq--56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--55" value="文化概念自动标注" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="700" width="196" height="30" as="geometry" />
+          <mxGeometry x="665" y="750" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--56" value="评价焦点、隐含情绪与动机" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="700" width="196" height="30" as="geometry" />
+          <mxGeometry x="900" y="750" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--60" value="特征生成与语义向量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="750" width="196" height="30" as="geometry" />
+          <mxGeometry x="665" y="800" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--66" target="JAy5tWjs6kHAEQ4UZLq--72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--66" value="多维度结构化特征集合" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="208.5" y="830" width="191" height="40" as="geometry" />
+          <mxGeometry x="458.5" y="880" width="191" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--70" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="450" y="820" width="80" height="60" as="geometry" />
+          <mxGeometry x="700" y="870" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--66" target="JAy5tWjs6kHAEQ4UZLq--70">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--72" value="理论建模&lt;br&gt;(大语言模型)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="930" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="980" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--75" target="JAy5tWjs6kHAEQ4UZLq--80">
           <mxGeometry relative="1" as="geometry" />
@@ -185,37 +185,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--75" value="理论检验&lt;br&gt;（以水稻理论验证）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1040" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="1090" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--78" value="根据多维度特征集合，对社会理论进行建模" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="940" width="310" height="30" as="geometry" />
+          <mxGeometry x="665" y="990" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--80" value="对照组对比分析（水稻区/小麦区对比、市内/省内包围对比）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1000" width="356" height="30" as="geometry" />
+          <mxGeometry x="664" y="1050" width="356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--81" target="JAy5tWjs6kHAEQ4UZLq--82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--81" value="关联性建模：检验文化变量与行为变量之间的关联性" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1050" width="306" height="30" as="geometry" />
+          <mxGeometry x="664" y="1100" width="306" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--82" value="适用性验证" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1050" width="100" height="30" as="geometry" />
+          <mxGeometry x="1020" y="1100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--84" target="JAy5tWjs6kHAEQ4UZLq--85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--84" value="差分法因果推断建模：时序数据分组建模" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1100" width="306" height="30" as="geometry" />
+          <mxGeometry x="664" y="1150" width="306" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--85" value="水稻理论扩展" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1100" width="100" height="30" as="geometry" />
+          <mxGeometry x="1020" y="1150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--95" target="JAy5tWjs6kHAEQ4UZLq--97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--95" value="理论验证结果与建模数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="208.5" y="1200" width="191" height="40" as="geometry" />
+          <mxGeometry x="458.5" y="1250" width="191" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--97" target="JAy5tWjs6kHAEQ4UZLq--103">
           <mxGeometry relative="1" as="geometry" />
@@ -227,13 +227,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--97" value="基础可视化开发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1290" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="1340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--103" value="&lt;span style=&quot;text-align: left;&quot;&gt;指标对比柱状图、时序变化折线图：使用Echarts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1280" width="275" height="30" as="geometry" />
+          <mxGeometry x="665" y="1330" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--104" value="&lt;span style=&quot;text-align: left;&quot;&gt;文化地理分布图：使用&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Geopandas+Echarts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1330" width="275" height="30" as="geometry" />
+          <mxGeometry x="665" y="1380" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--108" target="JAy5tWjs6kHAEQ4UZLq--111">
           <mxGeometry relative="1" as="geometry" />
@@ -248,16 +248,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--108" value="交互式可视化开发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1410" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="1460" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--111" value="话语星系图：使用D3.js等工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1370" width="275" height="30" as="geometry" />
+          <mxGeometry x="665" y="1420" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--112" value="&lt;span style=&quot;text-align: left;&quot;&gt;动态时间轴：添加疫情前后切换，展示特征动态变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1420" width="306" height="30" as="geometry" />
+          <mxGeometry x="665" y="1470" width="306" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--113" value="联动仪表盘集成：整合多视图，实现视图联动" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1470" width="306" height="30" as="geometry" />
+          <mxGeometry x="665" y="1520" width="306" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--117" target="JAy5tWjs6kHAEQ4UZLq--118">
           <mxGeometry relative="1" as="geometry" />
@@ -269,16 +269,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--117" value="叙事化整合输出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1530" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="1580" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--118" value="&lt;span style=&quot;text-align: left;&quot;&gt;逻辑标注：解释具体建模方法和理论关联&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1510" width="275" height="30" as="geometry" />
+          <mxGeometry x="664" y="1560" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--119" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;接入LLM：接入大语言模型对理论进行解释&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1560" width="275" height="30" as="geometry" />
+          <mxGeometry x="664" y="1610" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--123" value="交互式可视化平台" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="1640" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="1690" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
