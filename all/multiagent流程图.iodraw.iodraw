@@ -65,10 +65,8 @@
             <mxPoint x="304" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304" y="450" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--20" target="JAy5tWjs6kHAEQ4UZLq--27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--20" value="结构化数据集" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="229" y="350" width="150" height="40" as="geometry" />
