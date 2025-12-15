@@ -99,7 +99,7 @@
           <mxGeometry x="414" y="532.5" width="306" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--35" value="主题模型提取：运用LDA等主题模型提取核心议题和主题分布" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="585" width="295" height="30" as="geometry" />
+          <mxGeometry x="414" y="585" width="295" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
