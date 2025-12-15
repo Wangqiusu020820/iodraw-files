@@ -256,8 +256,8 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--113" value="联动仪表盘集成：整合多视图，实现视图联动" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="1470" width="306" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--117" value="交互式可视化开发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1420" width="120" height="50" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--117" value="叙事化整合输出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1510" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
