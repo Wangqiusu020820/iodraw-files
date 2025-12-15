@@ -184,8 +184,8 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--84" value="差分法因果推断建模：时序数据分组建模" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="1100" width="306" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--85" value="适用性验证" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1060" width="100" height="30" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--85" value="水稻理论扩展" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1100" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
