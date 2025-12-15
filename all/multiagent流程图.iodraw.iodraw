@@ -16,8 +16,11 @@
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-4" value="文化特征抽取智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="430" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nL2ZT0Lo6Q2gO3qX0gRt-5" target="nL2ZT0Lo6Q2gO3qX0gRt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-5" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff1d6;" parent="1" vertex="1">
-          <mxGeometry x="40" y="900" width="880" height="290" as="geometry" />
+          <mxGeometry x="40" y="900" width="880" height="270" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-6" value="理论建模和验证智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="910" width="130" height="30" as="geometry" />
@@ -164,6 +167,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--72" target="JAy5tWjs6kHAEQ4UZLq--78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--72" target="JAy5tWjs6kHAEQ4UZLq--75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--72" value="理论建模&lt;br&gt;(大语言模型)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
