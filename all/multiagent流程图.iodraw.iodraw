@@ -95,10 +95,10 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="550" width="50" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--34" value="情感倾向分析：运用情感词典对评论进行情感分类和评估" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="532.5" width="306" height="30" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--34" value="情感分类和评估：使用情感分析算法或情感词典" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="532.5" width="276" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--35" value="提取核心议题和主题分布：LDA等主题模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--35" value="提取核心议题和主题分布：使用LDA等主题模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="585" width="266" height="35" as="geometry" />
         </mxCell>
       </root>
