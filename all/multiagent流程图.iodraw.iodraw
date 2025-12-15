@@ -68,6 +68,9 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--20" value="结构化数据集" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="229" y="350" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="470" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
