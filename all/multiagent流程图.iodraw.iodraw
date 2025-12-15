@@ -7,14 +7,14 @@
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="680" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-2" value="数据获取与预处理Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="170" width="130" height="30" as="geometry" />
+        <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-2" value="数据获取与预处理智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="170" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-3" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="360" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-4" value="指标映射Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="370" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="370" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nL2ZT0Lo6Q2gO3qX0gRt-5" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="680" height="160" as="geometry" />
