@@ -60,13 +60,13 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--15" value="文本结构化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="237.5" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--13">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAy5tWjs6kHAEQ4UZLq--13" target="JAy5tWjs6kHAEQ4UZLq--20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="304" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--20" value="在线评论数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="430" y="360" width="150" height="40" as="geometry" />
+          <mxGeometry x="229" y="370" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
