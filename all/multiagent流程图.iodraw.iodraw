@@ -32,7 +32,7 @@
           <mxGeometry x="305" y="60" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--2" value="数据清洗（规则去噪 语境补全）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275" y="120" width="205" height="60" as="geometry" />
+          <mxGeometry x="277.5" y="130" width="205" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
