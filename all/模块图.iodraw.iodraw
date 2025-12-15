@@ -85,7 +85,7 @@
         <mxCell id="1bZur7a8jkEvVuZ96MZD-33" value="对数字空间中的思维方式与合作行为进行建模，与水稻理论进行对比并得出其适用性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="260" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="1bZur7a8jkEvVuZ96MZD-34" value="模块3&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;水稻理论扩充与验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1bZur7a8jkEvVuZ96MZD-34" value="Agent 3&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;水稻理论扩充与验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="450" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1bZur7a8jkEvVuZ96MZD-35" value="数据分组" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -124,7 +124,7 @@
         <mxCell id="1bZur7a8jkEvVuZ96MZD-47" value="主要观测点为疫情前后的变化，通过变化大小建模合作行为的韧性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="510" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1bZur7a8jkEvVuZ96MZD-49" value="模块4&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;可视化系统构建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1bZur7a8jkEvVuZ96MZD-49" value="Agent 4&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;可视化系统构建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="610" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1bZur7a8jkEvVuZ96MZD-50" value="基础可视化开发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
