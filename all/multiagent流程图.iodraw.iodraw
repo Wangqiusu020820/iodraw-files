@@ -89,7 +89,7 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--30" value="构建语义单元：&lt;span data-path-to-node=&quot;6,1,1,1,1,0&quot;&gt;将文本拆解为可供分析的语义单元&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,1,1,2&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="490" width="295" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--32" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--32" value="传统文化特征量化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="550" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
