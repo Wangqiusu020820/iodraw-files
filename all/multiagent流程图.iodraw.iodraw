@@ -86,7 +86,7 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--29" value="分词与词性标注：使用LIWC工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="435" width="226" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--30" value="语境补全：构建方言/网络黑化映射词典，标准化语义" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--30" value="构建语义单元：" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="490" width="295" height="30" as="geometry" />
         </mxCell>
       </root>
