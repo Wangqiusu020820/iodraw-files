@@ -90,7 +90,7 @@
           <mxGeometry x="415" y="490" width="295" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--32" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="462.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="244" y="550" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
