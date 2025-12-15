@@ -220,6 +220,12 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--97" value="基础可视化开发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="1290" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--103" value="文化概念自动标注" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1280" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--104" value="特征生成与语义向量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1330" width="196" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
