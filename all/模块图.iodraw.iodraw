@@ -109,7 +109,7 @@
         <mxCell id="1bZur7a8jkEvVuZ96MZD-42" value="评分数据分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="510" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1bZur7a8jkEvVuZ96MZD-43" value="评分数据分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1bZur7a8jkEvVuZ96MZD-43" value="评论数据分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="540" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1bZur7a8jkEvVuZ96MZD-44" value="NLP：提取情感、主题等表层特征" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
