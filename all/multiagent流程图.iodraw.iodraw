@@ -152,7 +152,10 @@
           <mxGeometry x="415" y="750" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--66" value="多维度结构化特征集和" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="208.5" y="860" width="191" height="40" as="geometry" />
+          <mxGeometry x="208.5" y="830" width="191" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--70" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
