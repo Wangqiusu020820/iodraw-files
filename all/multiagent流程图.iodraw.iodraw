@@ -124,8 +124,8 @@
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--51" value="以水稻理论为例：集体/个人主义指标、思维方式、真实性以及语气" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="640" width="196" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAy5tWjs6kHAEQ4UZLq--53" value="传统文化特征量化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="587.5" width="120" height="50" as="geometry" />
+        <mxCell id="JAy5tWjs6kHAEQ4UZLq--53" value="深层文化特征抽取" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="244" y="710" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
