@@ -47,7 +47,7 @@
           <mxGeometry x="414" y="110" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAy5tWjs6kHAEQ4UZLq--10" value="语境补全" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="165" width="120" height="30" as="geometry" />
+          <mxGeometry x="414" y="165" width="226" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
