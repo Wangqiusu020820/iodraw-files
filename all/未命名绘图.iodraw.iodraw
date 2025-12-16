@@ -43,6 +43,15 @@
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-16" value="在线数&lt;div&gt;据评论&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="165" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uMjFX3QdZkxs3h5Lr62q-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="194.58" as="sourcePoint" />
+            <mxPoint x="130" y="194.58" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
