@@ -76,6 +76,9 @@
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-34" value="文化特征抽取" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e6ffcc;" vertex="1" parent="1">
           <mxGeometry x="300" y="41.25" width="240" height="38.75" as="geometry" />
         </mxCell>
+        <mxCell id="uMjFX3QdZkxs3h5Lr62q-35" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff1d6;" vertex="1" parent="1">
+          <mxGeometry x="290" y="860" width="390" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
