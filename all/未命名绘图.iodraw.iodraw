@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-3" value="数据获取与预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="35" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="50" width="440" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-4" value="文化特征抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="35" width="120" height="60" as="geometry" />
