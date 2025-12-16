@@ -7,9 +7,6 @@
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-2" value="Phases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="46.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uMjFX3QdZkxs3h5Lr62q-4" value="文化特征抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="35" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-5" value="理论建模与验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="35" width="120" height="60" as="geometry" />
         </mxCell>
@@ -76,8 +73,8 @@
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-33" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;结构化数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="187.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uMjFX3QdZkxs3h5Lr62q-34" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e6ffcc;" vertex="1" parent="1">
-          <mxGeometry x="300" y="41.25" width="510" height="38.75" as="geometry" />
+        <mxCell id="uMjFX3QdZkxs3h5Lr62q-34" value="文化特征抽取" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e6ffcc;" vertex="1" parent="1">
+          <mxGeometry x="300" y="41.25" width="240" height="38.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
