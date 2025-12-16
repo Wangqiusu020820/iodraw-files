@@ -13,8 +13,8 @@
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-4" value="文化特征抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="35" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uMjFX3QdZkxs3h5Lr62q-5" value="文化特征抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="45" width="120" height="60" as="geometry" />
+        <mxCell id="uMjFX3QdZkxs3h5Lr62q-5" value="理论建模与验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="35" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
