@@ -71,10 +71,10 @@
           <mxGeometry x="300" y="41.25" width="240" height="38.75" as="geometry" />
         </mxCell>
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-35" value="理论建模与验证" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff1d6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="41.25" width="150" height="38.75" as="geometry" />
+          <mxGeometry x="640" y="37.5" width="150" height="38.75" as="geometry" />
         </mxCell>
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-36" value="交互式可视化" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f0f0f0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="41.25" width="190" height="38.75" as="geometry" />
+          <mxGeometry x="810" y="41.25" width="190" height="38.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
