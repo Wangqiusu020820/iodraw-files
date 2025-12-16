@@ -65,7 +65,7 @@
           <mxGeometry x="211.85" y="192.5" width="16.3" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-29" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;数据清洗：规则去噪&amp;amp;语境补全&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;结构化转换&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="380" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
