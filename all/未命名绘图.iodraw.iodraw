@@ -185,8 +185,8 @@
         <mxCell id="81BkfyjewTYkcbBmQ6Zl-73" value="LIWC分词结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="87.25" y="513.56" width="93" height="40.25" as="geometry" />
         </mxCell>
-        <mxCell id="81BkfyjewTYkcbBmQ6Zl-75" value="LIWC分词结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="97.25" y="523.56" width="93" height="40.25" as="geometry" />
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-75" value="多维度结构化特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87.25" y="584.5" width="93" height="40.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
