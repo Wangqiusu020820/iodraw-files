@@ -346,8 +346,8 @@
         <mxCell id="Ha422-YObhzo-uFTK4L_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10.000000000000005" y="520" width="488.26" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="Ha422-YObhzo-uFTK4L_-2" value="Long Text" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="Ha422-YObhzo-uFTK4L_-2" value="大段文字" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="555" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
