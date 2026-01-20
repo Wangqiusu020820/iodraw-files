@@ -80,7 +80,7 @@
           <mxGeometry x="420" y="41.25" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-35" value="理论建模与验证" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff1d6;" parent="1" vertex="1">
-          <mxGeometry x="741.74" y="41.25" width="200" height="40" as="geometry" />
+          <mxGeometry x="730" y="41.25" width="211.74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMjFX3QdZkxs3h5Lr62q-36" value="交互式可视化" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f0f0f0;" parent="1" vertex="1">
           <mxGeometry x="971.74" y="41.25" width="228.26" height="40" as="geometry" />
