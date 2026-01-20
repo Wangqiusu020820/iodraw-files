@@ -90,8 +90,8 @@
         <mxCell id="81BkfyjewTYkcbBmQ6Zl-34" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="379.5" width="20" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="81BkfyjewTYkcbBmQ6Zl-35" value="Paragraphs: {" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="257.5" width="90" height="25" as="geometry" />
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-35" value="Length:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="342.5" width="90" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
