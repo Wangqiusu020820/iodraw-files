@@ -349,7 +349,7 @@
         <mxCell id="Ha422-YObhzo-uFTK4L_-2" value="大段文字" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="555" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Ha422-YObhzo-uFTK4L_-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ha422-YObhzo-uFTK4L_-5" value="T" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="555" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
