@@ -10,7 +10,7 @@
         <mxCell id="81BkfyjewTYkcbBmQ6Zl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="81BkfyjewTYkcbBmQ6Zl-2" target="81BkfyjewTYkcbBmQ6Zl-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="81BkfyjewTYkcbBmQ6Zl-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="81BkfyjewTYkcbBmQ6Zl-15">
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-16" value="Not accurate&lt;div&gt;Invalid information&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="81BkfyjewTYkcbBmQ6Zl-15">
           <mxGeometry x="-0.1374" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="81BkfyjewTYkcbBmQ6Zl-10" value="NLP/LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="330" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
