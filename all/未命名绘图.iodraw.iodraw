@@ -125,8 +125,8 @@
         <mxCell id="81BkfyjewTYkcbBmQ6Zl-49" value="Key Parts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="427.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="81BkfyjewTYkcbBmQ6Zl-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;√&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="399" y="390" width="30" height="30" as="geometry" />
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;√&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00FF00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="403" y="393" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
