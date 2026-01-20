@@ -494,6 +494,12 @@
         <mxCell id="Ha422-YObhzo-uFTK4L_-56" value="Validity:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="71.5" y="752.25" width="64.5" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="Ha422-YObhzo-uFTK4L_-58" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="530" as="sourcePoint" />
+            <mxPoint x="470" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
