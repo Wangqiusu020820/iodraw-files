@@ -519,7 +519,7 @@
           <mxGeometry x="1071.6100000000001" y="505" width="28.52" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Ha422-YObhzo-uFTK4L_-78" value="具体社会理论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="927" y="499.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="927" y="499.75" width="93" height="40.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
