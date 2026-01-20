@@ -15,6 +15,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="81BkfyjewTYkcbBmQ6Zl-2" target="81BkfyjewTYkcbBmQ6Zl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="81BkfyjewTYkcbBmQ6Zl-2" value="Long Text" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="242.5" width="120" height="35" as="geometry" />
         </mxCell>
