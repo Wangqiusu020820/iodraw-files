@@ -277,7 +277,7 @@
         </mxCell>
         <mxCell id="9_-l4qg-FSs50WXH_q3b-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9_-l4qg-FSs50WXH_q3b-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="330" as="sourcePoint" />
+            <mxPoint x="554" y="327.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9_-l4qg-FSs50WXH_q3b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9_-l4qg-FSs50WXH_q3b-4" target="9_-l4qg-FSs50WXH_q3b-5">
@@ -287,13 +287,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9_-l4qg-FSs50WXH_q3b-4" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="494" y="392.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9_-l4qg-FSs50WXH_q3b-5" value="分词与词性标注：使用LIWC工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="664" y="375" width="226" height="30" as="geometry" />
+          <mxGeometry x="664" y="372.5" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9_-l4qg-FSs50WXH_q3b-6" value="构建语义单元：&lt;span data-path-to-node=&quot;6,1,1,1,1,0&quot;&gt;将文本拆解为可供分析的语义单元&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,1,1,2&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="664" y="430" width="295" height="30" as="geometry" />
+          <mxGeometry x="664" y="427.5" width="295" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
