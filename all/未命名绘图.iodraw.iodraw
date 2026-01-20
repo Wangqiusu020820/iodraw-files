@@ -75,6 +75,21 @@
         <mxCell id="81BkfyjewTYkcbBmQ6Zl-25" value="Small LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-30" value="T" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-31" value="T" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="234.5" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-32" value="T" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-33" value="T" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="269.5" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81BkfyjewTYkcbBmQ6Zl-34" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309.5" y="352.5" width="20" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
