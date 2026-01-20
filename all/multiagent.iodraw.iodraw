@@ -572,7 +572,7 @@
         <mxCell id="Ha422-YObhzo-uFTK4L_-117" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ha422-YObhzo-uFTK4L_-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1180" y="470" as="sourcePoint" />
-            <mxPoint x="931" y="410" as="targetPoint" />
+            <mxPoint x="1050" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
