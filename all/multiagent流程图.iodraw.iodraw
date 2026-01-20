@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kT2PaE3GroWM1_nr7qS2">
-    <mxGraphModel dx="988" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,13 +287,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9_-l4qg-FSs50WXH_q3b-4" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="494" y="390" width="120" height="50" as="geometry" />
+          <mxGeometry x="494" y="380" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9_-l4qg-FSs50WXH_q3b-5" value="分词与词性标注：使用LIWC工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="664" y="372.5" width="226" height="30" as="geometry" />
+          <mxGeometry x="664" y="362.5" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9_-l4qg-FSs50WXH_q3b-6" value="构建语义单元：&lt;span data-path-to-node=&quot;6,1,1,1,1,0&quot;&gt;将文本拆解为可供分析的语义单元&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,1,1,2&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="664" y="427.5" width="295" height="30" as="geometry" />
+          <mxGeometry x="664" y="417.5" width="295" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
