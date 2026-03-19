@@ -542,7 +542,7 @@
         <mxCell id="Ha422-YObhzo-uFTK4L_-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ha422-YObhzo-uFTK4L_-110" target="Ha422-YObhzo-uFTK4L_-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ha422-YObhzo-uFTK4L_-110" value="多维度结构化特征" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ha422-YObhzo-uFTK4L_-110" value="Multi-dimensional Structured Features" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="934.37" y="541.9" width="100.25" height="33.6" as="geometry" />
         </mxCell>
         <mxCell id="Ha422-YObhzo-uFTK4L_-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ha422-YObhzo-uFTK4L_-112" target="Ha422-YObhzo-uFTK4L_-113" edge="1">
