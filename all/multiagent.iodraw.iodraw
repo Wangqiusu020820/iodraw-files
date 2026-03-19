@@ -494,7 +494,7 @@
             <mxPoint x="790.75" y="292.66999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ha422-YObhzo-uFTK4L_-65" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;输入社会理论&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Ha422-YObhzo-uFTK4L_-65" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Social Theory&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="755.74" y="163" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ha422-YObhzo-uFTK4L_-66" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
